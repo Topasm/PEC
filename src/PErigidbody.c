@@ -30,7 +30,7 @@ typedef struct object Object;
 struct material
 {
     float restitution;
-    float densit;
+    float density;
     float us;
     float uk;
     char number;
